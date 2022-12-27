@@ -1,0 +1,35 @@
+main{
+    text-align: center;
+}
+#cods{
+    width: 98%;
+    min-height: 280px;
+    border-radius: 14px;
+    border: 2px solid darkgray;
+}
+#buttons {
+    display: flex; 
+    justify-content: space-evenly;  
+}
+#buttons button{
+    width: 47%;
+    border-radius: 12px;
+    border: 0px;
+    padding: 12px;
+}
+#run{
+    background-color: rgb(18, 220, 32);
+    color: aliceblue;
+}
+#delet{
+    background-color: rgb(21, 157, 210);
+    color: aliceblue;
+}
+#result{
+    padding: 10px;
+    border-bottom: 2px solid darkgray;
+    margin:8px 0px ;
+    font-weight:bold ;
+}
+
+
